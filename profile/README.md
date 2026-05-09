@@ -23,44 +23,25 @@
 
 ## Spotlight repositories
 
-<div align="center">
-<table>
-<tbody>
-<tr>
-<td align="center" valign="top" width="50%">
+<p>
 <strong><a href="https://github.com/MvvmAIO/Prism.SourceGenerators">Prism.SourceGenerators</a></strong><br />
-Analyzers/source generators for Prism MVVM.<br /><br />
-<a href="https://github.com/MvvmAIO/Prism.SourceGenerators/stargazers"><img src="https://img.shields.io/github/stars/MvvmAIO/Prism.SourceGenerators?label=Stars&amp;style=flat-square&amp;logo=github" alt="Stars" /></a>
-<a href="https://github.com/MvvmAIO/Prism.SourceGenerators/forks"><img src="https://img.shields.io/github/forks/MvvmAIO/Prism.SourceGenerators?label=Forks&amp;style=flat-square&amp;logo=github" alt="Forks" /></a>
-<a href="https://github.com/MvvmAIO/Prism.SourceGenerators/commits"><img src="https://img.shields.io/github/last-commit/MvvmAIO/Prism.SourceGenerators?label=Last%20commit&amp;style=flat-square&amp;logo=github" alt="Last commit" /></a>
-</td>
-<td align="center" valign="top" width="50%">
+Analyzers/source generators for Prism MVVM.
+</p>
+
+<p>
 <strong><a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators">MvvmAIO.R3.SourceGenerators</a></strong><br />
-Generators for <strong>R3</strong> and MVVM-style apps.<br /><br />
-<a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators/stargazers"><img src="https://img.shields.io/github/stars/MvvmAIO/MvvmAIO.R3.SourceGenerators?label=Stars&amp;style=flat-square&amp;logo=github" alt="Stars" /></a>
-<a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators/forks"><img src="https://img.shields.io/github/forks/MvvmAIO/MvvmAIO.R3.SourceGenerators?label=Forks&amp;style=flat-square&amp;logo=github" alt="Forks" /></a>
-<a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators/commits"><img src="https://img.shields.io/github/last-commit/MvvmAIO/MvvmAIO.R3.SourceGenerators?label=Last%20commit&amp;style=flat-square&amp;logo=github" alt="Last commit" /></a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+Generators for <strong>R3</strong> and MVVM-style apps.
+</p>
+
+<p>
 <strong><a href="https://github.com/MvvmAIO/Prism.SourceGenerators.Docs">Prism.SourceGenerators.Docs</a></strong><br />
-Documentation site (Blazor WASM).<br /><br />
-<a href="https://github.com/MvvmAIO/Prism.SourceGenerators.Docs/stargazers"><img src="https://img.shields.io/github/stars/MvvmAIO/Prism.SourceGenerators.Docs?label=Stars&amp;style=flat-square&amp;logo=github" alt="Stars" /></a>
-<a href="https://github.com/MvvmAIO/Prism.SourceGenerators.Docs/forks"><img src="https://img.shields.io/github/forks/MvvmAIO/Prism.SourceGenerators.Docs?label=Forks&amp;style=flat-square&amp;logo=github" alt="Forks" /></a>
-<a href="https://github.com/MvvmAIO/Prism.SourceGenerators.Docs/commits"><img src="https://img.shields.io/github/last-commit/MvvmAIO/Prism.SourceGenerators.Docs?label=Last%20commit&amp;style=flat-square&amp;logo=github" alt="Last commit" /></a>
-</td>
-<td align="center" valign="top" width="50%">
+Documentation site (Blazor WASM).
+</p>
+
+<p>
 <strong><a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples">MvvmAIO.R3.SourceGenerators.Samples</a></strong><br />
-Hands-on demos for MvvmAIO plus R3.<br /><br />
-<a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples/stargazers"><img src="https://img.shields.io/github/stars/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples?label=Stars&amp;style=flat-square&amp;logo=github" alt="Stars" /></a>
-<a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples/forks"><img src="https://img.shields.io/github/forks/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples?label=Forks&amp;style=flat-square&amp;logo=github" alt="Forks" /></a>
-<a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples/commits"><img src="https://img.shields.io/github/last-commit/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples?label=Last%20commit&amp;style=flat-square&amp;logo=github" alt="Last commit" /></a>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
+Hands-on demos for MvvmAIO plus R3.
+</p>
 
 ## Highlights
 
