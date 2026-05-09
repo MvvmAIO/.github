@@ -89,6 +89,63 @@ Runnable sample solutions that demonstrate MvvmAIO patterns with <strong>R3</str
 | ◆ | **文档** | [`Prism.SourceGenerators.Docs`](https://github.com/MvvmAIO/Prism.SourceGenerators.Docs) | Blazor WASM 文档站 |
 | ◆ | **示例** | [`Prism.SourceGenerators.Samples`](https://github.com/MvvmAIO/Prism.SourceGenerators.Samples) · [`MvvmAIO.R3.SourceGenerators.Samples`](https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples) | 示例工程 |
 
+## Packages
+
+Packages ship from the **[Skym NuGet profile](https://www.nuget.org/profiles/Skym)** (latest release and download totals match the gallery; badges update from the public metadata feed).
+
+<table>
+<thead>
+<tr>
+<th align="left">Package</th>
+<th align="left">About</th>
+<th align="left">Version &amp; downloads</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top">
+<strong><a href="https://www.nuget.org/packages/MvvmAIO.Prism.SourceGenerators">MvvmAIO.Prism.SourceGenerators</a></strong><br />
+<code>MvvmAIO.Prism.SourceGenerators</code>
+</td>
+<td valign="top">
+Roslyn source generators for Prism MVVM (e.g. ObservableProperty, DelegateCommand / AsyncDelegateCommand, BindableBase-oriented codegen targets <strong>.NET Standard 2.0</strong> workloads).
+</td>
+<td valign="top" nowrap="nowrap">
+<a href="https://www.nuget.org/packages/MvvmAIO.Prism.SourceGenerators/latest"><img src="https://img.shields.io/nuget/v/MvvmAIO.Prism.SourceGenerators?style=flat-square&amp;logo=nuget&amp;label=NuGet" alt="MvvmAIO.Prism.SourceGenerators NuGet version" /></a><br /><br />
+<a href="https://www.nuget.org/stats/packages/MvvmAIO.Prism.SourceGenerators?groupby=Version"><img src="https://img.shields.io/nuget/dt/MvvmAIO.Prism.SourceGenerators?style=flat-square&amp;logo=nuget&amp;label=downloads" alt="MvvmAIO.Prism.SourceGenerators NuGet downloads" /></a>
+</td>
+</tr>
+<tr><td colspan="3"><hr /></td></tr>
+<tr>
+<td valign="top">
+<strong><a href="https://www.nuget.org/packages/MvvmAIO.Prism.Bcl.Commands">MvvmAIO.Prism.Bcl.Commands</a></strong><br />
+<code>MvvmAIO.Prism.Bcl.Commands</code>
+</td>
+<td valign="top">
+Prism 8 command helpers for asynchronous command flows; install alongside <strong>Prism.Core 8.1.97</strong> when consuming <strong>MvvmAIO.Prism.SourceGenerators</strong>. Targets both <strong>.NET 6+</strong> and <strong>.NET Standard 2.0</strong>.
+</td>
+<td valign="top" nowrap="nowrap">
+<a href="https://www.nuget.org/packages/MvvmAIO.Prism.Bcl.Commands/latest"><img src="https://img.shields.io/nuget/v/MvvmAIO.Prism.Bcl.Commands?style=flat-square&amp;logo=nuget&amp;label=NuGet" alt="MvvmAIO.Prism.Bcl.Commands NuGet version" /></a><br /><br />
+<a href="https://www.nuget.org/stats/packages/MvvmAIO.Prism.Bcl.Commands?groupby=Version"><img src="https://img.shields.io/nuget/dt/MvvmAIO.Prism.Bcl.Commands?style=flat-square&amp;logo=nuget&amp;label=downloads" alt="MvvmAIO.Prism.Bcl.Commands NuGet downloads" /></a>
+</td>
+</tr>
+<tr><td colspan="3"><hr /></td></tr>
+<tr>
+<td valign="top">
+<strong><a href="https://www.nuget.org/packages/MvvmAIO.R3.SourceGenerators">MvvmAIO.R3.SourceGenerators</a></strong><br />
+<code>MvvmAIO.R3.SourceGenerators</code>
+</td>
+<td valign="top">
+Roslyn generators for <strong>R3</strong>-oriented MVVM scenarios (pairs with Cysharp/<a href="https://github.com/Cysharp/R3">R3</a> on the app side).
+</td>
+<td valign="top" nowrap="nowrap">
+<a href="https://www.nuget.org/packages/MvvmAIO.R3.SourceGenerators/latest"><img src="https://img.shields.io/nuget/v/MvvmAIO.R3.SourceGenerators?style=flat-square&amp;logo=nuget&amp;label=NuGet" alt="MvvmAIO.R3.SourceGenerators NuGet version" /></a><br /><br />
+<a href="https://www.nuget.org/stats/packages/MvvmAIO.R3.SourceGenerators?groupby=Version"><img src="https://img.shields.io/nuget/dt/MvvmAIO.R3.SourceGenerators?style=flat-square&amp;logo=nuget&amp;label=downloads" alt="MvvmAIO.R3.SourceGenerators NuGet downloads" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+
 ## Community
 
 > **参与方式**  
