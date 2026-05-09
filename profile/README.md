@@ -26,8 +26,6 @@
 
 ## Spotlight repositories
 
-样式参考常见 Profile 美化里的 **Pinned / readme-stats Repo Card**（[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)；教程示例见 [博客园：超详细的 GitHub 个人主页美化](https://www.cnblogs.com/PeterJXL/p/18437094) 与 [腾讯云：GitHub 展示页面教程](https://cloud.tencent.com/developer/article/1866501)）。
-
 <p align="center">
   <a href="https://github.com/MvvmAIO/Prism.SourceGenerators">
     <img alt="MvvmAIO/Prism.SourceGenerators pin card" src="https://github-readme-stats.vercel.app/api/pin/?username=MvvmAIO&repo=Prism.SourceGenerators&show_owner=true&theme=transparent&hide_border=false&description_lines_count=2" />
