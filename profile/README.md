@@ -1,6 +1,3 @@
-<!-- Organization profile README: https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile -->
-<!-- 灵感可参考：GitHub Profile 美化教程（用户名同名仓库）；组织页等价物为 MvvmAIO/.github/profile/README.md -->
-
 <div align="center">
 
 <a href="https://github.com/MvvmAIO">
@@ -26,7 +23,6 @@
 
 ## Spotlight repositories
 
-<!-- Pin cards render ~438px wide; two inline imgs overflow narrow layouts. Grid + scaled width avoids overlap (see readme-stats api/pin). -->
 <div align="center">
   <table>
     <tbody>
@@ -86,12 +82,4 @@
 ## Community
 
 - **Issues**：各仓库独立跟踪缺陷与需求  
-- **Pull requests**：欢迎小而聚焦的改动，并遵守各仓库 CI 与说明  
-
----
-
-<div align="center">
-
-<sub>本页由 <code>MvvmAIO/.github</code> 的 <code>profile/README.md</code> 渲染；组织成员在 Overview 上可能仍会看到 GitHub 自带的入门任务区，访客以「公开视角」为准。</sub>
-
-</div>
+- **Pull requests**：欢迎小而聚焦的改动，并遵守各仓库 CI 与说明
