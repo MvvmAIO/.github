@@ -26,23 +26,53 @@
 
 ## Spotlight repositories
 
-<p align="center">
-  <a href="https://github.com/MvvmAIO/Prism.SourceGenerators">
-    <img alt="MvvmAIO/Prism.SourceGenerators pin card" src="https://github-readme-stats.vercel.app/api/pin/?username=MvvmAIO&repo=Prism.SourceGenerators&show_owner=true&theme=transparent&hide_border=false&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators">
-    <img alt="MvvmAIO/MvvmAIO.R3.SourceGenerators pin card" src="https://github-readme-stats.vercel.app/api/pin/?username=MvvmAIO&repo=MvvmAIO.R3.SourceGenerators&show_owner=true&theme=transparent&hide_border=false&description_lines_count=2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MvvmAIO/Prism.SourceGenerators.Docs">
-    <img alt="MvvmAIO/Prism.SourceGenerators.Docs pin card" src="https://github-readme-stats.vercel.app/api/pin/?username=MvvmAIO&repo=Prism.SourceGenerators.Docs&show_owner=true&theme=transparent&hide_border=false&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples">
-    <img alt="MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples pin card" src="https://github-readme-stats.vercel.app/api/pin/?username=MvvmAIO&repo=MvvmAIO.R3.SourceGenerators.Samples&show_owner=true&theme=transparent&hide_border=false&description_lines_count=2" />
-  </a>
-</p>
+<!-- Pin cards render ~438px wide; two inline imgs overflow narrow layouts. Grid + scaled width avoids overlap (see readme-stats api/pin). -->
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center" valign="top">
+          <a href="https://github.com/MvvmAIO/Prism.SourceGenerators">
+            <img
+              alt="MvvmAIO/Prism.SourceGenerators repo card"
+              width="382"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=MvvmAIO&amp;repo=Prism.SourceGenerators&amp;show_owner=true&amp;theme=github&amp;hide_border=false&amp;description_lines_count=2&amp;cache_seconds=86400"
+            />
+          </a>
+        </td>
+        <td align="center" valign="top">
+          <a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators">
+            <img
+              alt="MvvmAIO/MvvmAIO.R3.SourceGenerators repo card"
+              width="382"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=MvvmAIO&amp;repo=MvvmAIO.R3.SourceGenerators&amp;show_owner=true&amp;theme=github&amp;hide_border=false&amp;description_lines_count=2&amp;cache_seconds=86400"
+            />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" valign="top">
+          <a href="https://github.com/MvvmAIO/Prism.SourceGenerators.Docs">
+            <img
+              alt="MvvmAIO/Prism.SourceGenerators.Docs repo card"
+              width="382"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=MvvmAIO&amp;repo=Prism.SourceGenerators.Docs&amp;show_owner=true&amp;theme=github&amp;hide_border=false&amp;description_lines_count=2&amp;cache_seconds=86400"
+            />
+          </a>
+        </td>
+        <td align="center" valign="top">
+          <a href="https://github.com/MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples">
+            <img
+              alt="MvvmAIO/MvvmAIO.R3.SourceGenerators.Samples repo card"
+              width="382"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=MvvmAIO&amp;repo=MvvmAIO.R3.SourceGenerators.Samples&amp;show_owner=true&amp;theme=github&amp;hide_border=false&amp;description_lines_count=2&amp;cache_seconds=86400"
+            />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Highlights
 
