@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/MvvmAIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=0969DA&center=true&vCenter=true&multiline=false&repeat=true&width=520&lines=MvvmAIO;.NET+MVVM+%2B+Roslyn;Prism+%C2%B7+R3+%C2%B7+SourceGenerators" alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=900&color=0969DA&center=true&vCenter=true&multiline=false&repeat=true&width=520&lines=MvvmAIO;.NET+MVVM+%2B+Roslyn;Prism+%C2%B7+R3+%C2%B7+SourceGenerators" alt="Typing header" />
 </a>
 
 [![Organization](https://img.shields.io/badge/Organization-MvvmAIO-0969DA?style=flat-square&logo=github)](https://github.com/MvvmAIO)
